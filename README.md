@@ -11,4 +11,3 @@ GitHub Apps のホームページ用リポジトリです。
 5. Save をクリック
 
 数分後、`https://[ユーザー名].github.io/code-review-policy/` でアクセスできるようになります。
-
